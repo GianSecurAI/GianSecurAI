@@ -2,7 +2,8 @@
 
 ###
 
-![CatAI](https://pin.it/7g9Ywn0)
+![](![OIG-_3_](https://github.com/GianSecurAI/GianSecurAI/assets/128256729/e56ee75a-48ce-4478-b5b7-c490d2b6d472)
+)
 
 ###
 
