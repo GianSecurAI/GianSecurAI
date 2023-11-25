@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giansecurai&label=Profile%20views&color=0e75b6&style=flat" alt="giansecurai" /> </p>
 
 <a href="https://www.instagram.com/giansecurai/">
-<img align="right" height="auto" width="275" src="https://github.com/GianSecurAI/GianSecurAI/assets/128256729/e56ee75a-48ce-4478-b5b7-c490d2b6d472"/>
+<img align="right" height="auto" width="275" src="https://github.com/GianSecurAI/GianSecurAI/assets/128256729/ff2c1964-d662-45b8-861b-a513352c3091"/>
 </a>
 
 ***
